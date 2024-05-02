@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aayan, a React developer
 ####  I'm a passionate React developer efficient in HTML, CSS and Javascript dedicated to creating extraordinary websites.
-<a href="https://ibb.co/88X6pKS"><img src="https://i.ibb.co/q1xkfyP/thumbnail.png" alt="thumbnail" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>how do i upload a picture</a><br />
+<img src="https://i.ibb.co/q1xkfyP/thumbnail.png" alt="thumbnail">
 
 - 👋 Hi, My name is Sahid Al Masud Aayan
 - 👀 I’m interested in Freelancing.
