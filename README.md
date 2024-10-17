@@ -7,7 +7,7 @@
 - 📫 How to reach me: aayan.webdeveloper@gmail.com
 - 😄 Pronouns: he/him
 
-Skills:  REACT / Redux / Firebase / JS
+## Skills:  REACT / Redux / Firebase / JS
 
 - 🔭 I’m currently working on development
 - 💬 Ask me about Web developing 
