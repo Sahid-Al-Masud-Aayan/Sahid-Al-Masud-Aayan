@@ -3,7 +3,7 @@
 
 - 👋 Hi, My name is Sahid Al Masud Aayan
 - 👀 I’m interested in Freelancing.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me: aayan.webdeveloper@gmail.com
 - 😄 Pronouns: he/him
 
