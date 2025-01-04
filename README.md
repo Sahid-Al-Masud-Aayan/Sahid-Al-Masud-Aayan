@@ -1,5 +1,5 @@
-### Hi there 👋, I am Aayan, a React developer
-####  I'm a passionate React developer, dedicated to creating extraordinary websites.
+### Hi there 👋, I am Aayan, a Frontend React developer
+####  I'm a passionate Frontend React developer, dedicated to creating extraordinary websites.
 
 - 👋 Hi, My name is Sahid Al Masud Aayan
 - 👀 I’m interested in Freelancing.
